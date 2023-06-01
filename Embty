@@ -4,6 +4,16 @@ DOMAIN-SUFFIX,embyvip.misakaf.org
 DOMAIN-SUFFIX,mulgore.net
 DOMAIN-SUFFIX,infinityfly.top
 
+DOMAIN-SUFFIX,nijigem.by
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+#以下为电视翻墙
+DOMAIN-SUFFIX,weesunday.com
+DOMAIN-SUFFIX,keeflys.com
+DOMAIN-SUFFIX,dangsfly.com
+DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,emby.wtf
+
 # REPO: https://github.com/justdoiting/emby-rules
 DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,odysseyplus

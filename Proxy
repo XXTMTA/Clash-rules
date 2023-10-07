@@ -12,14 +12,8 @@ DOMAIN,addons.mozilla.org
 DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
-DOMAIN,assets1.xboxlive.com
-DOMAIN,assets2.xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
-DOMAIN,beta.music.apple.com
-DOMAIN,books.apple.com
-DOMAIN,chat.openai.com.cdn.cloudflare.net
-DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,disk.yandex.com
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
@@ -27,10 +21,10 @@ DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
-DOMAIN,search.yahoo.co.jp
-DOMAIN,tv.apple.com
 DOMAIN,voice.telephony.goog
 DOMAIN,wego.here.com
+DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,管人痴.com
 DOMAIN-SUFFIX,cloudflare.com
@@ -455,8 +449,6 @@ DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nih.gov
 DOMAIN-SUFFIX,nimg.jp
-DOMAIN-SUFFIX,nintendo.com
-DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,novafile.com
 DOMAIN-SUFFIX,now.com

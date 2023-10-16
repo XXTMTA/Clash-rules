@@ -16,7 +16,7 @@
 
 
 ;设置规则标志位
-ruleset=🎯 国内直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
+ruleset=🎯 国内直连,https://raw.githubusercontent.com/XXTMTA/Clash-rules/main/UnBan
 ruleset=🎯 国内直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🛑 广告拦截,https://anti-ad.net/surge.txt
 ruleset=🛑 广告拦截,https://github.com/VirgilClyne/GetSomeFries/raw/main/ruleset/HTTPDNS.Block.list

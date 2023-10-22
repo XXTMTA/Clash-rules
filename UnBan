@@ -24,7 +24,7 @@ DOMAIN,origin-a.akamaihd.net
 # Tencent
 DOMAIN-SUFFIX,wechatapp.com
 DOMAIN-SUFFIX,servicewechat.com
-DOMAIN-SUFFIX,sglong.wechat.com
+DOMAIN-SUFFIX,wechat.com
 DOMAIN,fairplay.l.qq.com
 DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com

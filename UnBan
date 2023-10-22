@@ -1,6 +1,4 @@
 # Unbreak 白名单 不应该被广告链接的网站
-#wx
-DOMAIN-SUFFIX,wechat.com
 
 #duolingo
 DOMAIN-SUFFIX,duolingo.com
@@ -24,6 +22,7 @@ DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
 DOMAIN,origin-a.akamaihd.net
 
 # Tencent
+DOMAI,sglong.wechat.com
 DOMAIN,fairplay.l.qq.com
 DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com

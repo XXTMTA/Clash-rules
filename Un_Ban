@@ -1,5 +1,8 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
+#VD
+DOMAIN-SUFFIX,vrdesktop.net
+
 #parsec
 DOMAIN-SUFFIX,parsec.app
 

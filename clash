@@ -31,10 +31,10 @@ ruleset=📟 电报消息,https://raw.githubusercontent.com/blackmatrix7/ios_rul
 ruleset=🚩 社交平台IP归属地,https://raw.fastgit.org/lwd-temp/anti-ip-attribution/main/generated/rule-provider.yaml
 ruleset=📺 哔哩哔哩,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBili/BiliBili.list
 ruleset=🌍 国外网站,https://raw.githubusercontent.com/XXTMTA/Clash-rules/main/Proxy
-ruleset=🎯 国内直连,https://cdn.jsdelivr.net/gh/soffchen/GeoIP2-CN@release/clash-ruleset.list
-ruleset=🎯 国内直连,[]GEOIP,CN
 ruleset=🛑 广告拦截,https://anti-ad.net/surge.txt
 ruleset=🛑 广告拦截,https://github.com/VirgilClyne/GetSomeFries/raw/main/ruleset/HTTPDNS.Block.list
+ruleset=🎯 国内直连,https://cdn.jsdelivr.net/gh/soffchen/GeoIP2-CN@release/clash-ruleset.list
+ruleset=🎯 国内直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
 

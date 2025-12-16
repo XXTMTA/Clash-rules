@@ -75,5 +75,5 @@ enable_rule_generator=true
 overwrite_original_rules=true
 
 clash_rule_base=https://raw.githubusercontent.com/Repcz/Open-Proflies/main/Clash/GeneralClashConfig.yml
-
+https://github.com/blackmatrix7/ios_rule_script
 ;luck
